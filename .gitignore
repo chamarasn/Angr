@@ -1,0 +1,4 @@
+/Heroes/bin/Debug
+/Heroes/obj/Debug
+/.vs/Heroes/v15/Server/sqlite3/*.ide-shm
+/.vs/Heroes/v15/Server/sqlite3/*.ide-wal
