@@ -12540,15 +12540,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\Temp\\Study\\Angular\\Angr\\Heroes\\Heroes.csproj",
+      "projectUniqueName": "C:\\Code\\Angular\\Heroes\\Heroes.csproj",
       "projectName": "Heroes",
-      "projectPath": "D:\\Temp\\Study\\Angular\\Angr\\Heroes\\Heroes.csproj",
+      "projectPath": "C:\\Code\\Angular\\Heroes\\Heroes.csproj",
       "packagesPath": "C:\\Users\\cnarangoda\\.nuget\\packages\\",
-      "outputPath": "D:\\Temp\\Study\\Angular\\Angr\\Heroes\\obj\\",
+      "outputPath": "C:\\Code\\Angular\\Heroes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
